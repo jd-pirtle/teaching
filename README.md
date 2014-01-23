@@ -1,3 +1,3 @@
-#### image example
+#### Basic Processing Examples
 #####jd pirtle, 2014
-######this is a basic example for working with images in Processing
+######Basic examples of various techniques in Processing, geared toward kids--particularly those who require a bit more background/explanation than the examples already present in Processing/the Processing website.
